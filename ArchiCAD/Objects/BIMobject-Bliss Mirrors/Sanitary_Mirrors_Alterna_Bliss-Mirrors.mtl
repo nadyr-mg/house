@@ -1,0 +1,54 @@
+# material "LED"
+newmtl 36d00bc5_58f0_4d4a_837c_a1477bff6663
+illum 1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Tf 1 1 1
+d 1
+Tr 0
+
+# material "Aluminium"
+newmtl 6ca8c2b3_1257_4ee2_81b3_aff7a09db636
+illum 1
+Ka 0 0 0
+Kd 0.745098 0.745098 0.745098
+Ks 1 1 1
+Tf 1 1 1
+d 1
+Tr 0
+Ns 0.01
+
+# material "Default Material"
+newmtl Default_Material
+illum 1
+Ka 0.792157 0.211765 0.0627451
+Kd 1 0 0
+Ks 0 0 0
+Tf 1 1 1
+d 1
+Tr 0
+
+# material "Plastic"
+newmtl ab039b42_adac_4f99_960b_158ea64c35a7
+illum 1
+Ka 0 0 0
+Kd 0.901961 0.901961 0.901961
+Ks 1 1 1
+Tf 1 1 1
+d 1
+Tr 0
+Ns 0.0005
+
+# material "Mirror"
+newmtl f15a50d5_fe3c_4772_93cf_1dd400812ca5
+illum 1
+Ka 0 0 0
+Kd 0.411765 0.411765 0.411765
+Ks 1 1 1
+Tf 1 1 1
+d 1
+Tr 0
+Ns 0.099
+
+
